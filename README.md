@@ -1,3 +1,6 @@
+![images](https://user-images.githubusercontent.com/109715598/215065481-560a125a-a261-4773-9cb8-eb4794b17dcf.jpg)
+
+
 # Hepatitis-Detection-ML-Model
 Machine learning model for detection of hepatitis C.
 ## Technology Used in Project:
@@ -23,3 +26,4 @@ The data set contains laboratory values of blood donors and Hepatitis C patients
 2) Transaminases, bilirubin, and glutamyl transpeptidase showed positive correlation with the probability of disease, and the higher the value, the more severe the disease.
 3) Age, sex, bilirubin, and cholesterol did not have a significant degree of association with the probability of disease.
 4) The Decision Tree Classifier has the Highest Accuracy 100%.
+
